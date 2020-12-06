@@ -23,6 +23,7 @@ Mini_Map = Object("images/Mini_Map.png")
 Desk = Object("images/Desk.png")
 GG = Object("images/GG.png")
 
+
 #trap (in Scene3)
 Trap_1 = Object("images/Trap.png")
 Trap_2 = Object("images/Trap.png")
